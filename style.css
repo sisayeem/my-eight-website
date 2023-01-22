@@ -1,11 +1,13 @@
-.pic{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  
+.name{
+    color: orange;
 }
-h1{
-    color: yellow;
-    font-size: 40px;
+.half{
+    margin-left: 5%;
+    padding-left: 2px;
+  
+    width: 30%;
+    float: left;
+}
+.half img{
+    width: 100%;
 }
