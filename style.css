@@ -3,16 +3,64 @@
 }
 .half{
    
-    margin-left: 5%;
+    margin-left: 7%;
     padding-left: 2px;
-  
-    width: 30%;
     float: left;
+    width: 30%;
+
+   
 }
 .half img{
     width: 100%;
 } 
 .top{
    background-image: url("pictures/top-banner.png");
+   background-repeat: no-repeat;
 
 }
+section{
+    height: 500px;
+}
+body{
+    margin: 0%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.lower{
+    background-image: url("pictures/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+p{
+    color: dimgray;
+}
+.kala{
+    box-shadow: 10px 10px 40px rgb(0, 0, 0);
+    border-radius: 5px;
+    height: 50%;
+    width: 40%;
+   background-color: rgb(255, 255, 255);
+}
+
+#ab{
+   margin: 60px;
+   font-size: xx-large;
+}
+.end{
+    background-image: url(pictures/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+#full{
+    border-left: 5px solid blue;
+}
+#abc{
+    border-left: 5px solid red;
+}
+footer{text-align: center;}
